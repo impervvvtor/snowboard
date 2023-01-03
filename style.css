@@ -1,0 +1,287 @@
+body{
+    margin:0px;
+}
+
+.header{
+    height: 110px;
+    width: 100%;
+    background-color: black;
+}
+
+.logo-img{
+    margin-top: 27px;
+    margin-left: 88px;
+    float: left;
+    width: 70px;
+    height: 52px;
+
+}
+
+.menu{
+    float: left;
+    padding-top: 52px;
+}
+
+.menu-item{
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    color: white;
+    list-style-type: none;
+    font-size: 13px;
+    padding-left: 26px;
+}
+
+.search-icon{
+    width: 25px;
+    height: 24px;
+    padding-left: 467px;
+    float: left;
+}
+
+.shop-icon{
+    width: 14px;
+    height: 16px;
+    padding-left: 29px;
+    float: left;
+}
+
+.price{
+    color: white;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    padding-left: 9px;
+}
+
+.slider{
+    float: left;
+    width: 100%;
+    height: 651px;
+    background-image: url('images/slider1.jpg');
+}
+
+.title{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 80px;
+    color: white;
+}
+
+.button{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding: 19px 34px;
+    color: white;
+    background-color: black;
+    float: right;
+}
+
+.slider-block{
+    width: 503px;
+    margin: auto;
+    margin-top: 212px;
+}
+
+.preview-block{
+    width: 100%;
+    float: left;
+    margin-bottom: 216px;
+}
+
+.preview-title{
+    width: 100%;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 160px;
+    text-align: center;
+    font-size: 48px;
+}
+
+.preview-subtitle{
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+.x{
+    display: block;
+    margin: auto;
+    margin-top: 28px;
+}
+
+.boards-block{
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    float: left;
+}
+
+.boards{
+    position: relative;
+    margin-top: 122px;
+    top: 0px;
+    left: -120px;
+    margin-bottom: 60px;
+}
+
+.arrow-left{
+    position: absolute;
+    top: 190px;
+    left: 13px;
+}
+
+.arrow-right{
+    position: absolute;
+    top: 190px;
+    right: 13px;
+}
+
+#fs24{
+    font-size: 24px;
+}
+
+.o-nas{
+    width: 100%;
+    background-image: url('images/bg-image.png');
+    float: left;
+    padding-bottom: 170px;
+}
+
+.o-nas-title{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    font-size: 48px;
+    color: white;
+    margin-left: 220px;
+    margin-top: 251px;
+    width: 450px;
+    text-transform: uppercase;
+    margin-bottom: 80px;
+}
+.o-nas-title span{
+    font-size: 15px;
+    font-weight: 400;
+    position: relative;
+    bottom: 26px;
+}
+
+.o-nas-text{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 15px;
+    margin-left: 220px;
+    width: 601px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+.features{
+    width: 100%;
+    float: left;
+    padding-bottom: 137px;
+}
+
+.features-title{
+    width: 100%;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 125px;
+    text-align: center;
+    font-size: 48px;
+}
+
+.features-x{
+    display: block;
+    margin: auto;
+    margin-top: 36px;
+    margin-bottom: 85px;
+}
+
+.features-block{
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+}
+
+.features-img-block{
+    float: left;
+    width: 25%;
+}
+
+.features-img{
+    width: 217px;
+    height: 157px;
+}
+
+.features-text{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 30px;
+    width: 217px;
+}
+
+.footer{
+    width: 100%;
+    float: left;
+    background-color: black;
+}
+
+.footer-wrapper{
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-bottom: 70px;
+}
+
+.footer-block{
+    font-weight: 400;
+    font-size: 14px;
+    width: 25%;
+    float: left;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.footer-block h2{
+    font-weight: 800;
+    font-size: 17px;
+    text-transform: uppercase;
+    margin-top: 75px;
+    margin-bottom: 30px;
+}
+
+.footer-block p{
+    color: #c9c9c9;
+    line-height: 30px;
+}
+
+.footer-block input{
+    width: 162px;
+    float: left;
+    height: 40px;
+    padding-left: 15px;
+    border: none;
+    border-radius: none;
+}
+
+.footer-block button{
+    width: 57px;
+    height: 42px;
+    float: left;
+    border: none;
+    border-radius: none;
+    background-color: #c7c7c7;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.footer-block img{
+    margin-top: 62px;
+}
